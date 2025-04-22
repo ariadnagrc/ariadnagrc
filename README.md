@@ -3,7 +3,8 @@
 - 💻 Desarrolladora de Software  
 - 📊 Analista de datos  
 - 🤖 Gran interés por la IA  
-- ⚡ Siempre con ganas de aprender nuevas tecnologías!  
+- ⚡ Siempre con ganas de aprender nuevas tecnologías!
+- 🌐 Puedes ver mi portfolio web [AQUÍ](https://ariadnagrc.github.io)
 
 <br>
 
